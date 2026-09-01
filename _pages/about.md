@@ -1,6 +1,6 @@
 ---
 
-title: "About David Florian"
+title: "About Nicolas Kwok"
 
 ---
 
@@ -8,11 +8,11 @@ title: "About David Florian"
 
 David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
+* United World College of SEA
+  * Graduated with IB Diploma
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BE Mechanical Engineering
+  * BS Economics
 
 ## Technical Skills
 
