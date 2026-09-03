@@ -16,7 +16,7 @@ Nicolas is a Mechanical Engineering Student from Hong Kong who went to high scho
 
 ## Technical Skills
 
-Nicolas is proficient in multiple CAD platforms and programming languages, with hands-on experience in a wide range of fabrication and prototyping methods, including welding, FDM/SLA 3D printing, laser cutting, CNC milling, soldering, and vacuum forming.:
+Nicolas is proficient in multiple CAD platforms and programming languages, with hands-on experience in a wide range of fabrication and prototyping methods:
 
 * CAD: Solidworks Certified CSWA Associate, 9 years of modeling and FEA analysis experience on Fusion 360
 * Coding and Software: Proficient in Matlab, Applescript, Arduino, Dynacam, Linkages
