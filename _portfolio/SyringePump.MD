@@ -25,4 +25,7 @@ Syringe pumps are widely used in medical and laboratory settings where precise a
 * **Precision Microstepping: 0.0025 mm/step.** An A4988 motor driver operating at 1/4 microstepping provides 800 steps per revolution. Combined with a 2 mm lead screw, this allows the carriage to move just 0.0025 mm per step for smooth and controlled fluid delivery.
 * **Integrated Safety & User Feedback.** A limit switch automatically stops the motor when the syringe reaches the end of its travel, while an RGB LED provides visual feedback for the pump's operating state. All electronics are housed inside a custom 3D-printed enclosure for protection from user contact and potential fluid exposure.
 
+# CAD Model
+
+
 {% include gallery caption="Above is a few images to go along with the project" %}
