@@ -1,6 +1,6 @@
 ---
 title: "3D Printed Hand Bag Carrier"
-excerpt: "A custom electronic roulette wheel with 36 LED outcomes housed in CNC-machined wood and laser-cut acrylic."
+excerpt: "A lightweight ergonomic handbag carrier designed to comfortably distribute loads up to 7 kg while reducing hand and arm strain."
 header:
   image: /assets/img/Hangbag.png
   teaser: /assets/img/Hangbag.png
