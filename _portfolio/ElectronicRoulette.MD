@@ -20,8 +20,7 @@ I designed and built an electronic roulette wheel as a compact and entertaining 
 * **Laser-Cut Acrylic Interface.** A matte black acrylic control panel was designed and laser cut to integrate the 36 LEDs, push button, power switch, and numbered roulette interface into a clean, compact assembly.
 
 # CAD Model
-<iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
+<iframe src="https://vanderbilt1448.autodesk360.com/shares/public/SH90d2dQT28d5b602811e77f1e939dc3697a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 # Report
 Read the full write-up on the design process, circuit design, and fabrication in the project report.
 
