@@ -2,12 +2,12 @@
 title: "3D Printed Hand Bag Carrier"
 excerpt: "A custom electronic roulette wheel with 36 LED outcomes housed in CNC-machined wood and laser-cut acrylic."
 header:
-  image: /assets/img/hangbag.png
-  teaser: /assets/img/hangbag.png
+  image: /assets/img/Hangbag.png
+  teaser: /assets/img/Hangbag.png
 gallery:
-  - image_path: assets/img/handbag1.png
-  - image_path: assets/img/hangbag2.png
-  - image_path: assets/img/hangbag3.png
+  - image_path: assets/img/Handbag1.png
+  - image_path: assets/img/Hangbag2.png
+  - image_path: assets/img/Hangbag3.png
    
 ---
 I designed and built a compact handbag carrier to reduce hand and arm strain when carrying multiple shopping bags. The final design features an ergonomic handle, dual hooked ends for balanced load distribution, and a lightweight ABS construction capable of supporting up to 7 kg. The design was developed using anthropometric data and validated through FEA stress analysis to create a comfortable, durable, and portable solution.
