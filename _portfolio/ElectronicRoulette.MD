@@ -3,7 +3,7 @@ title: "Electronic Roulette Wheel"
 excerpt: "A 36-outcome electronic roulette wheel with LED sequencing, sound, and a custom CNC-machined wood and acrylic housing."
 header:
   image: /assets/img/Roulette 2.png
-  teaser: /assets/img/Roulette.png
+  teaser: /assets/img/test.png
 gallery:
   - image_path: assets/img/Roulette 3.png
   - image_path: assets/img/Roulette 4.png
