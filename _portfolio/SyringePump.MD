@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pump"
-excerpt: "Designed and built a programmable syringe pump for precise, controlled fluid delivery using stepper-driven linear actuation."
+excerpt: "Programmable syringe pump with precise, controlled fluid delivery using stepper-driven linear actuation."
 header:
   image: /assets/img/syringe.png
   teaser: /assets/img/syringe.png
