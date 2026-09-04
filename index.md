@@ -10,17 +10,17 @@ header:
       url: "/portfolio/"
 excerpt: "Nicolas Kwok is a junior Mechanical Engineering student with a passion for digital fabrication and hands-on hobby projects, looking to build a career in manufacturing."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+  - image_path: assets/img/syringe.png
+    alt: "Syringe Pump"
+    title: "Syringe Pump"
+    excerpt: "Precision-controlled fluid delivery for lab and DIY applications."
+  - image_path: assets/img/Roulette.png
     alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    title: "Electronic Roulette Wheel"
+    excerpt: "A 36-outcome roulette wheel with LED sequencing and CNC-machined housing."
+  - image_path: assets/img/Water.jpeg
+    title: "Automatic Plant Watering System"
+    excerpt: "Client-driven design for a refillable, timer-controlled irrigation system."
 ---
 
 {% include feature_row %}
