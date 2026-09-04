@@ -14,7 +14,7 @@ feature_row:
     alt: "Syringe Pump"
     title: "Syringe Pump"
     excerpt: "Precision-controlled fluid delivery for lab and DIY applications."
-  - image_path: assets/img/Roulette.png
+  - image_path: assets/img/Roulettee.png
     alt: "placeholder image 2"
     title: "Electronic Roulette Wheel"
     excerpt: "A 36-outcome roulette wheel with LED sequencing and CNC-machined housing."
