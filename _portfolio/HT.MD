@@ -1,5 +1,5 @@
 ---
-title: "Electronic Roulette Wheel"
+title: "Heads or Tails Minigame"
 excerpt: "A 36-outcome electronic roulette wheel with LED sequencing, sound, and a custom CNC-machined wood and acrylic housing."
 header:
   image: /assets/img/Roulette 2.png
