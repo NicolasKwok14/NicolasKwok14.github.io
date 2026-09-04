@@ -1,6 +1,6 @@
 ---
 title: "Heads or Tails Minigame"
-excerpt: excerpt: "A compact electronic Heads or Tails game with LED outcomes, custom circuitry, and a vacuum-formed housing."
+excerpt: "A compact electronic Heads or Tails game with LED outcomes, custom circuitry, and a vacuum-formed housing."
 header:
   image: /assets/img/HT.jpeg
   teaser: /assets/img/HT.jpeg
