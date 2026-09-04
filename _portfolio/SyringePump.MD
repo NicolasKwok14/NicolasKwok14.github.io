@@ -60,7 +60,7 @@ Syringe pumps are widely used in medical and laboratory settings where precise a
 # Arduino Code
 The full control program, written using the AccelStepper library, is available here:
 
-[View Arduino Code](/assets/files/syringe-pump-code.ino){: .btn .btn--primary}
+[View Arduino Code](/assets/img/syringe-pump-code.ino){: .btn .btn--primary}
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028115500f7fe22fff431?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
