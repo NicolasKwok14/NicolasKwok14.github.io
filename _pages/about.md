@@ -4,6 +4,8 @@ title: "About Nicolas Kwok"
 
 ---
 
+I'm a junior at Vanderbilt University pursuing a B.E. in Mechanical Engineering with a double major in Economics and minors in Materials Science, Digital Fabrication, and Innovation and Design Strategy. I have a strong passion for digital fabrication and hands-on hobby projects. My goal is to build a career in manufacturing, combining technical design skills with a broader understanding of process, materials, and production at scale.
+
 ## Education
 
 Nicolas is a Mechanical Engineering Student from Hong Kong who went to high school in Singapore and is currently studying internationally at Vanderbilt University in Nashville TN
