@@ -1,30 +1,20 @@
 ---
 title: "Heads or Tails Minigame"
-excerpt: "A 36-outcome electronic roulette wheel with LED sequencing, sound, and a custom CNC-machined wood and acrylic housing."
+excerpt: excerpt: "A compact electronic Heads or Tails game with LED outcomes, custom circuitry, and a vacuum-formed housing."
 header:
-  image: /assets/img/Roulette 2.png
-  teaser: /assets/img/Roulette.png
+  image: /assets/img/HT.jpeg
+  teaser: /assets/img/HT.jpeg
 gallery:
-  - image_path: assets/img/Roulette 3.png
-  - image_path: assets/img/Roulette 4.png
-  - image_path: assets/img/Roulette 5.png
+  - image_path: assets/img/HT1.jpeg
+  - image_path: assets/img/HT2.jpeg
+  - image_path: assets/img/HT3.jpeg
    
 ---
-I designed and built an electronic roulette wheel as a compact and entertaining alternative to traditional betting games. The final product features 36 possible outcomes, sequential red and green LEDs, and sound to recreate the suspense of a traditional roulette wheel. The electronics are integrated into a custom CNC-machined Kapok wood housing with a laser-cut black acrylic interface, combining circuit design, digital fabrication, and woodworking into a single functional product.
-
-# Features
-
-* **36 Possible Outcomes.** A circular array of 36 red and green LEDs recreates the functionality of a traditional roulette wheel, cycling through each position before stopping on a randomly selected outcome.
-* **Electronic Roulette Circuit.** A custom-assembled circuit controls the LED sequencing and produces sound during operation, adding suspense and creating a more engaging user experience.
-* **CNC-Machined Kapok Wood Housing.** The cylindrical housing was fabricated from multiple layers of Kapok wood using CNC machining, then assembled, sanded, and finished with Osmo oil for a smooth and durable exterior.
-* **Laser-Cut Acrylic Interface.** A matte black acrylic control panel was designed and laser cut to integrate the 36 LEDs, push button, power switch, and numbered roulette interface into a clean, compact assembly.
-
-# CAD Model
-<iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+I designed and built an electronic Heads or Tails game from the ground up, integrating a custom-soldered circuit with red and green LEDs to randomly indicate an outcome. The electronics are housed in a vacuum-formed polystyrene enclosure with a laser-cut acrylic interface, combining circuit assembly, soldering, vacuum forming, and laser cutting into a compact functional product.
 
 # Report
 Read the full write-up on the design process, circuit design, and fabrication in the project report.
 
-[Download Report (PDF)](/assets/img/roulette-report_compressed.pdf){: .btn .btn--primary}
+[Download Report (PDF)](/assets/img/Heads or Tails manufacturing process.pdf){: .btn .btn--primary}
 
-{% include gallery caption="Electronic Roulette Wheel Gallery" %}
+{% include gallery caption="Heads or Tails Game Gallery" %}
