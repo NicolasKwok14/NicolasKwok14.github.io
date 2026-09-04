@@ -2,12 +2,12 @@
 title: "3D Printed Hand Bag Carrier"
 excerpt: "A lightweight ergonomic handbag carrier designed to comfortably distribute loads up to 7 kg while reducing hand and arm strain."
 header:
-  image: /assets/img/Hangbag.png
-  teaser: /assets/img/Hangbag.png
+  image: /assets/img/Handbag.png
+  teaser: /assets/img/Handbag.png
 gallery:
   - image_path: assets/img/Handbag1.png
-  - image_path: assets/img/Hangbag2.png
-  - image_path: assets/img/Hangbag3.png
+  - image_path: assets/img/Handbag2.png
+  - image_path: assets/img/Handbag3.png
    
 ---
 I designed and built a compact handbag carrier to reduce hand and arm strain when carrying multiple shopping bags. The final design features an ergonomic handle, dual hooked ends for balanced load distribution, and a lightweight ABS construction capable of supporting up to 7 kg. The design was developed using anthropometric data and validated through FEA stress analysis to create a comfortable, durable, and portable solution. 
