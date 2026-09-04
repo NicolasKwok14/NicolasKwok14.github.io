@@ -12,7 +12,10 @@ Nicolas is a Mechanical Engineering Student from Hong Kong who went to high scho
   * Graduated with IB Diploma
 * Vanderbilt University '28
   * BE Mechanical Engineering
-  * BS Economics
+  * Double majoring in Economics
+  * Minor in Materials Science
+  * Minor in Digital Fabrication
+  * Minor in Innovation and Design Strategy
 
 ## Technical Skills
 
