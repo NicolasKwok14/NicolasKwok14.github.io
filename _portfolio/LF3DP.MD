@@ -2,12 +2,12 @@
 title: "Electronic Roulette Wheel"
 excerpt: "A 36-outcome electronic roulette wheel with LED sequencing, sound, and a custom CNC-machined wood and acrylic housing."
 header:
-  image: /assets/img/Roulette2
-  teaser: /assets/img/Roulette
+  image: /assets/img/Roulette 2.png
+  teaser: /assets/img/Roulette.png
 gallery:
-  - image_path: assets/img/Roulette3
-  - image_path: assets/img/Roulette4
-  - image_path: assets/img/Roulette5
+  - image_path: assets/img/Roulette 3.png
+  - image_path: assets/img/Roulette 4.png
+  - image_path: assets/img/Roulette 5.png
    
 ---
 I designed and built an electronic roulette wheel as a compact and entertaining alternative to traditional betting games. The final product features 36 possible outcomes, sequential red and green LEDs, and sound to recreate the suspense of a traditional roulette wheel. The electronics are integrated into a custom CNC-machined Kapok wood housing with a laser-cut black acrylic interface, combining circuit design, digital fabrication, and woodworking into a single functional product.
