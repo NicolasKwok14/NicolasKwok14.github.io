@@ -24,6 +24,7 @@ Syringe pumps are widely used in medical and laboratory settings where precise a
 * **Integrated Safety & User Feedback.** A limit switch automatically stops the motor when the syringe reaches the end of its travel, while an RGB LED provides visual feedback for the pump's operating state. All electronics are housed inside a custom 3D-printed enclosure for protection from user contact and potential fluid exposure.
 
 # Off-the-Shelf Parts
+
 | Component | Description | Quantity |
 |---|---|---|
 | NEMA 17 Stepper Motor | Drives the lead screw to produce linear carriage motion | 1 |
@@ -38,6 +39,7 @@ Syringe pumps are widely used in medical and laboratory settings where precise a
 | 10 mL / 20 mL Syringes | Fluid reservoirs compatible with the pump | 2 |
 
 # Custom 3D-Printed Parts
+
 | Component | Material | Purpose |
 |---|---|---|
 | Housing Body | PLA | Encloses and protects the Arduino, driver, and wiring from user contact and fluid exposure |
