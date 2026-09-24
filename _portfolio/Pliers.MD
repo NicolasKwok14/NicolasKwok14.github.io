@@ -5,14 +5,11 @@ header:
   image:
   teaser:
 gallery:
-  - image_path:
-  - image_path:
-  - image_path:
+  - image_path: /assets/img/pliers1.jpeg
+  - image_path: /assets/img/pliers2.jpeg
+  - image_path: /assets/img/pliersgif.jpeg
 ---
 
-## Overview
-
-I was given a task of fabricating a pair of needle-nose pliers, specifically with the capability of picking up something small (a standard through-hole resistor). However, with the task came specifications and a catch: **no screws, glue, or tools of any kind for assembly**. Just a pair of pliers with a maximum of three printed parts, pressed together by hand, that automatically springs back to an open position when not in use.
 ## Overview
 
 I was given a task of fabricating a pair of needle-nose pliers, specifically with the capability of picking up something small (a standard through-hole resistor). However, with the task came specifications and a catch: **no screws, glue, or tools of any kind for assembly**. Just a pair of pliers with a maximum of three printed parts, pressed together by hand, that automatically springs back to an open position when not in use.
@@ -64,7 +61,7 @@ The first test print made it immediately clear that 7 mm was too large for the h
 
 At **5.4 mm**, the mechanism worked as intended. It spun freely on its axis without coming apart and without excessive friction.
 
-<!-- INSERT PIVOT PHOTOS HERE -->
+![Pivot mechanism during testing](/assets/img/test1.jpeg)
 
 ### The Handle and Jaw Tips
 
@@ -74,7 +71,7 @@ The fix was to update the drawing by starting from a **closed position** and the
 
 The handles were scaled to match the proportions of real pliers, keeping the overall tool from feeling either oversized or flimsy in the hand. Fillets were added along the grip to make it more comfortable to hold, and a roughly **25 mm clearance zone** around the pivot gives the two handles enough room to swing through their full range of motion without interfering with each other.
 
-<!-- INSERT HANDLE/JAW PHOTOS HERE -->
+![Handle and spring hole testing](/assets/img/handles1.jpeg)
 
 ### The Spring
 
@@ -98,7 +95,8 @@ I tested printing the rod both on its side and standing on its base. Printing si
 
 The rod length was tested at **95 mm** and worked well. A longer rod widens the jaw's opening gap, while a shorter one narrows it.
 
-<!-- INSERT SPRING PHOTOS HERE -->
+![Rod prints with different diameters and orientation](/assets/img/rods1.jpeg)
+![Rod diameters](/assets/img/rods2.jpeg)
 
 ## Specifications
 
