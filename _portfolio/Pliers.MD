@@ -2,8 +2,7 @@
 title: "3D-Printed Needle-Nose Pliers"
 excerpt: "A three-part needle-nose plier design featuring a snap-fit pivot and flexible TPU spring, assembled entirely by hand without screws, glue, or tools."
 header:
-  image:/assets/img/pliers1.jpeg
-  teaser:
+  teaser: /assets/img/pliers1.jpeg
 gallery:
   - image_path: /assets/img/pliers1.jpeg
   - image_path: /assets/img/pliers2.jpeg
