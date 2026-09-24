@@ -127,8 +127,16 @@ The rod length was tested at **95 mm** and worked well. A longer rod widens the 
 
 ## Fusion Model
 
-<!-- INSERT FUSION 360 EMBED HERE -->
+<iframe
+  src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811c6f8e72cb4852c3b?mode=embed"
+  width="800"
+  height="600"
+  allowfullscreen="true"
+  webkitallowfullscreen="true"
+  mozallowfullscreen="true"
+  frameborder="0">
 
+</iframe>
 ## Picture Gallery
 
 {% include gallery caption="3D-Printed Needle-Nose Pliers Gallery" %}
