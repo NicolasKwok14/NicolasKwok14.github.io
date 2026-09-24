@@ -104,6 +104,7 @@ The rod length was tested at **95 mm** and worked well. A longer rod widens the 
 | Jaw length (pivot to tip) | 67 mm |
 | Jaw capacity (max opening) | ___ mm |
 | Handle length | 97 mm |
+| Handle thickness | 11 mm |
 | TPU spring rod diameter | 3.9 mm |
 | TPU rod length | 95 mm |
 | TPU hole diameter | 4 mm |
