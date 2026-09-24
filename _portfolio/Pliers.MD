@@ -125,7 +125,7 @@ The rod length was tested at **95 mm** and worked well. A longer rod widens the 
 | Bed temperature | 65 °C | 60 °C |
 | Supports | On | On |
 
-## Fusion Model
+## CAD Model
 
 <iframe
   src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811c6f8e72cb4852c3b?mode=embed"
